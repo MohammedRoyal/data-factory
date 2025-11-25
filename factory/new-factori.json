@@ -1,0 +1,9 @@
+{
+	"name": "new-factori",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81987f22-df72-49cd-af5c-8cc87ccf683c",
+		"tenantId": "5f9fc568-5b39-408f-83b4-d1d9922b18c2"
+	}
+}
